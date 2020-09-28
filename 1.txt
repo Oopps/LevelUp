@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Peter",
+    "surename": "Jackson",
+    "age": 55
+  },
+  {
+    "name": "John",
+    "surename": "Silver",
+    "age":96,
+    "legs_qty": 1
+  },
+  {
+    "name": "Mickey",
+    "surename": "Mouse",
+    "age": 83,
+    "university": "Orlando",
+    "course": "Magic",
+    "id": 1
+  },
+  {
+    "name": "Ivan",
+    "surename": "Susanin",
+    "age": 120,
+    "company": "Adventure corp.",
+    "position": "Forest Guide"
+  }
+]
